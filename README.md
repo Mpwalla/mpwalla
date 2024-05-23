@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hello! I'm Matthew Wallace, a aspring  data analyst.
+Hello! I'm Matthew Wallace, a aspring  data analyst. Here is a quick list of some of the tools that I use!
 
 ## Tools for  Data manipulation:
 
@@ -15,7 +15,6 @@ Hello! I'm Matthew Wallace, a aspring  data analyst.
 ### Tableau
 ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
 
-I have expertise in Microsoft Power BI for data modeling, visualization, and business intelligence reporting.
 
 ## How to contact me
 
