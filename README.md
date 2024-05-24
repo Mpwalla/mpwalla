@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hello! I'm Matthew Wallace, an aspring  data analyst. Here is a quick list of some of the tools that I use!
+Hello! I'm Matthew Wallace, an aspiring  data analyst. Here is a quick list of some of the tools that I use!
 
 ## Tools for  Data manipulation:
 
